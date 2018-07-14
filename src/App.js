@@ -26,7 +26,7 @@ class App extends Component {
         <AppBar position="static" style={{ backgroundColor: '#4e3981' }}>
         <Toolbar>
           <Typography variant="title" color="inherit">
-            David Hallinan
+            
           </Typography>
         </Toolbar>
       </AppBar>
